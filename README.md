@@ -17,3 +17,5 @@ Aquí tienes un poco más sobre mí:
 * **Lenguajes:** Python, C++, SQL
 * **Frontend & Móvil:** React Native
 * **Backend & BaaS:** Firebase
+
+![Mi Banner](banner.png)
