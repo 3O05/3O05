@@ -1,5 +1,10 @@
 ## ¡Hola! Soy David Parra 👋
 
+### Tecnologías que manejo:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 Soy estudiante de 2do año de Ingeniería en Informática en la UTEM y me apasiona resolver problemas a través del código. Combino mis estudios con mi trabajo técnico en APPAREIL, lo que me ha dado un enfoque práctico para el desarrollo de software y la implementación de soluciones.
 
 Aquí tienes un poco más sobre mí:
