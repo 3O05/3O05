@@ -24,3 +24,4 @@ Aquí tienes un poco más sobre mí:
 * **Backend & BaaS:** Firebase
 
 ![Mi Banner](banner.png)
+![Mi Banner2](banner2.png)
